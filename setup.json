@@ -1,0 +1,152 @@
+{
+  "projectName": "Beauty with Fateema - Oriflame Digital Portal",
+  "version": "1.0.0",
+  "description": "Professional mobile-first website for Fateema Ayuba's Oriflame consultancy business",
+  "author": "Beauty with Fateema",
+  "createdDate": "2026-04-23",
+  
+  "businessInfo": {
+    "businessName": "Beauty with Fateema",
+    "ownerName": "Fateema Ayuba",
+    "location": "Nigeria",
+    "industry": "Beauty & Wellness Retail + MLM Recruitment"
+  },
+
+  "contactInfo": {
+    "whatsapp": "08084022900",
+    "whatsappFull": "2348084022900",
+    "website": "https://beautyWithFateema.com"
+  },
+
+  "businessLinks": {
+    "businessOpportunity": "https://ng.oriflame.com/business-opportunity/become-consultant?potentialSponsor=NG-fatybee08",
+    "digitalCatalogue": "https://ng.oriflame.com/products/digital-catalogue-current",
+    "oriflameHome": "https://www.oriflame.com"
+  },
+
+  "productCategories": [
+    {
+      "name": "Wellness",
+      "description": "NutriShakes, vitamins, and supplements",
+      "icon": "leaf",
+      "color": "green"
+    },
+    {
+      "name": "Skincare",
+      "description": "Optimals, Love Nature, and Novage",
+      "icon": "water",
+      "color": "blue"
+    },
+    {
+      "name": "Fragrance",
+      "description": "Signature Parfums and Good as Gold",
+      "icon": "perfume",
+      "color": "pink"
+    },
+    {
+      "name": "Cosmetics",
+      "description": "OnColour and The ONE mascara",
+      "icon": "lipstick",
+      "color": "red"
+    }
+  ],
+
+  "recruitmentBenefits": [
+    "6-Digit Lifestyle",
+    "Travel Opportunities",
+    "Face of Nigeria Brand Ambassador Status"
+  ],
+
+  "techStack": {
+    "frontend": ["HTML5", "CSS3", "Vanilla JavaScript"],
+    "framework": "Tailwind CSS",
+    "icons": "Font Awesome 6",
+    "deployment": ["Netlify", "Vercel", "GitHub Pages"]
+  },
+
+  "features": [
+    "Mobile-first responsive design",
+    "Dual CTA buttons (Shop + Join)",
+    "Floating WhatsApp widget",
+    "Product showcase with categories",
+    "Recruitment form with lead capture",
+    "Professional animations and transitions",
+    "Accessibility compliant (WCAG 2.1 AA)",
+    "SEO optimized",
+    "Fast loading performance"
+  ],
+
+  "deploymentGuides": {
+    "netlify": {
+      "steps": [
+        "Visit netlify.com",
+        "Drag & drop project folder or connect GitHub",
+        "Site goes live automatically",
+        "Custom domain available"
+      ],
+      "time": "< 2 minutes",
+      "cost": "Free with custom domain option"
+    },
+    "vercel": {
+      "steps": [
+        "Visit vercel.com",
+        "Import from GitHub or upload files",
+        "Automatic deployment",
+        "Real-time updates"
+      ],
+      "time": "< 2 minutes",
+      "cost": "Free"
+    },
+    "githubPages": {
+      "steps": [
+        "Push code to GitHub",
+        "Enable Pages in settings",
+        "Site URL: username.github.io/repo-name"
+      ],
+      "time": "< 5 minutes",
+      "cost": "Free"
+    }
+  },
+
+  "seoMetadata": {
+    "title": "Beauty with Fateema - Premium Oriflame Products & Business Opportunity",
+    "description": "Shop high-quality Oriflame wellness and beauty products. Join our team for a 6-digit lifestyle and travel opportunities!",
+    "keywords": [
+      "Oriflame",
+      "Beauty Products Nigeria",
+      "Wellness Supplements",
+      "Skincare",
+      "Business Opportunity",
+      "Recruitment",
+      "Direct Sales"
+    ],
+    "author": "Fateema Ayuba"
+  },
+
+  "maintenanceTasks": [
+    "Update product catalogues quarterly",
+    "Monitor form submissions in localStorage",
+    "Check WhatsApp widget functionality",
+    "Test all external links",
+    "Backup business leads",
+    "Update testimonials/success stories"
+  ],
+
+  "futureEnhancements": [
+    "Add product image gallery",
+    "Implement payment gateway for direct sales",
+    "Create blog for wellness tips",
+    "Add customer testimonials section",
+    "Setup backend database for lead management",
+    "Email notification system for form submissions",
+    "Mobile app version",
+    "Multi-language support"
+  ],
+
+  "performanceMetrics": {
+    "targetLoadTime": "< 2 seconds",
+    "targetLighthouseScore": 90,
+    "mobileOptimized": true,
+    "seoOptimized": true
+  }
+}
